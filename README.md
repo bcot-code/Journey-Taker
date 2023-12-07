@@ -25,6 +25,7 @@ This is a module that allows users to take notes during their journey (daily rou
 
 - NODE JS
 - Express.js
+- Markdown generated from README_js.md by runmd
 
 ## User Story
 
@@ -50,14 +51,24 @@ Screencastify tutorial
 To run this project, link the main file
 
 ```
-(#)
+(https://watch.screencastify.com/v/GRJl05yNwg4uGa0QTcAG)
 
 ```
 
 ## Screenshots
 
-![In process... Screen Shot](./assets/images/screen1.png)
+- Screen COMMAND LINE DEMO - ![Alt text](./images/Screen%20Shot%201.png)
+
+- Note Taker- DEMO - ![Alt text](./images/Screen%20Shot%202023-12-06%20at%205.04.18%20PM.png)
+
+- DBJSON NOTE LIST DEMO - ![Alt text](./images/Screen%20Shot%201.png)
 
 ## Github
 
-[https://github.com/bcot-code/Journey-Taker]
+[My github](https://github.com/bcot-code/Journey-Taker): CHECK IT !
+
+## Deployment
+
+Deployed on Heroku :
+
+- https://my-journey-taker-1d3379c82052.herokuapp.com/notes
